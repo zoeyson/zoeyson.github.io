@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
+title: ZoeySon # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -12,7 +12,12 @@ url: "https://zoeyson.github.io/" # the base hostname & protocol for your site, 
 social:
   name: ZoeySon
   links:
-    - https://github.com/zoeyson
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://plus.google.com/+BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -41,7 +46,7 @@ service_worker: true
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+#theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
   - node_modules
